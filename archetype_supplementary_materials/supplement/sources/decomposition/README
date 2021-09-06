@@ -1,0 +1,12 @@
+This zip archive contains an R function to "decompose" visual field measurements (total deviations) into the 17 archetypes.
+
+Files: 
+(1) archetype_decomposition.r (R source code)
+(2) archetypes.RData (R data object containing the 17 archetypes)
+(3) README (this file)
+
+The R function requires the R library 'archetypes' which can be installed by 
+
+install.packages("archetypes")
+
+Look into the comments in archetype_decomposition.r for more details and an example.
